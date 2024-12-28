@@ -4,30 +4,171 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91ef83bf-327c-44ad-9876-3d57a4faa527" name="Changes" comment="" />
+    <list default="true" id="91ef83bf-327c-44ad-9876-3d57a4faa527" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/ex02_SeleniumBasics/TestSelenium02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/ex02_SeleniumBasics/TestSelenium04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/ex02_SeleniumBasics/test_Selenium03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/ex01_SeleniumBasics/TestSelenium01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/ex01_SeleniumBasics/TestSelenium01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SanjuQA1990&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SanjuQA1990/LearningSeleniumATB9x.git&quot;,
+    &quot;accountId&quot;: &quot;4f1453b1-f706-4115-a5d4-81f951d53798&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2qXK8o00kD7iJ7iOgbqjo84Qfb7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.AppTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.TestSelenium01.executor": "Run",
+    "TestNG.TestSelenium01.test_Selenium01.executor": "Run",
+    "TestNG.TestSelenium02.test_Selenium01.executor": "Run",
+    "TestNG.TestSelenium04.executor": "Run",
+    "TestNG.TestSelenium04.test_Selenium01.executor": "Run",
+    "TestNG.test_Selenium03.test_SeleniumPractice.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.TestSelenium04">
+    <configuration name="TestSelenium01.test_Selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.LearningSeleniumATB9x.ex01_SeleniumBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.LearningSeleniumATB9x.ex01_SeleniumBasics" />
+      <option name="MAIN_CLASS_NAME" value="com.LearningSeleniumATB9x.ex01_SeleniumBasics.TestSelenium01" />
+      <option name="METHOD_NAME" value="test_Selenium01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium02.test_Selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics" />
+      <option name="MAIN_CLASS_NAME" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics.TestSelenium02" />
+      <option name="METHOD_NAME" value="test_Selenium01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium04" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics" />
+      <option name="MAIN_CLASS_NAME" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics.TestSelenium04" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium04.test_Selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics" />
+      <option name="MAIN_CLASS_NAME" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics.TestSelenium04" />
+      <option name="METHOD_NAME" value="test_Selenium01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_Selenium03.test_SeleniumPractice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumATB9x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics" />
+      <option name="MAIN_CLASS_NAME" value="com.LearningSeleniumATB9x.ex02_SeleniumBasics.test_Selenium03" />
+      <option name="METHOD_NAME" value="test_SeleniumPractice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSelenium04" />
+        <item itemvalue="TestNG.TestSelenium04.test_Selenium01" />
+        <item itemvalue="TestNG.test_Selenium03.test_SeleniumPractice" />
+        <item itemvalue="TestNG.TestSelenium02.test_Selenium01" />
+        <item itemvalue="TestNG.TestSelenium01.test_Selenium01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
