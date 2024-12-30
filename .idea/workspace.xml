@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ef83bf-327c-44ad-9876-3d57a4faa527" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/ex02_SeleniumBasics/TestSelenium02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/ex02_SeleniumBasics/TestSelenium04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/ex02_SeleniumBasics/test_Selenium03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/katlonProject/Home_page.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/ex01_SeleniumBasics/TestSelenium01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/ex01_SeleniumBasics/TestSelenium01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "TestNG.Home_page.home_page_button.executor": "Run",
     "TestNG.TestSelenium01.executor": "Run",
     "TestNG.TestSelenium01.test_Selenium01.executor": "Run",
     "TestNG.TestSelenium02.test_Selenium01.executor": "Run",
@@ -69,18 +65,18 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.TestSelenium04">
-    <configuration name="TestSelenium01.test_Selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Home_page.home_page_button">
+    <configuration name="Home_page.home_page_button" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumATB9x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LearningSeleniumATB9x.ex01_SeleniumBasics.*" />
+          <option name="PATTERN" value="com.LearningSeleniumATB9x.katlonProject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.LearningSeleniumATB9x.ex01_SeleniumBasics" />
-      <option name="MAIN_CLASS_NAME" value="com.LearningSeleniumATB9x.ex01_SeleniumBasics.TestSelenium01" />
-      <option name="METHOD_NAME" value="test_Selenium01" />
+      <option name="PACKAGE_NAME" value="com.LearningSeleniumATB9x.katlonProject" />
+      <option name="MAIN_CLASS_NAME" value="com.LearningSeleniumATB9x.katlonProject.Home_page" />
+      <option name="METHOD_NAME" value="home_page_button" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -161,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Home_page.home_page_button" />
         <item itemvalue="TestNG.TestSelenium04" />
         <item itemvalue="TestNG.TestSelenium04.test_Selenium01" />
         <item itemvalue="TestNG.test_Selenium03.test_SeleniumPractice" />
         <item itemvalue="TestNG.TestSelenium02.test_Selenium01" />
-        <item itemvalue="TestNG.TestSelenium01.test_Selenium01" />
       </list>
     </recent_temporary>
   </component>
