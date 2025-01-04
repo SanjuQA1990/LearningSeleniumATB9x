@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91ef83bf-327c-44ad-9876-3d57a4faa527" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/LearningSeleniumATB9x/katlonProject/Home_page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="91ef83bf-327c-44ad-9876-3d57a4faa527" name="Changes" comment="loginto katlon" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,6 +171,19 @@
       <option name="presentableId" value="Default" />
       <updated>1734803323798</updated>
     </task>
+    <task id="LOCAL-00001" summary="loginto katlon">
+      <option name="closed" value="true" />
+      <created>1735561380288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735561380288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="loginto katlon" />
+    <option name="LAST_COMMIT_MESSAGE" value="loginto katlon" />
   </component>
 </project>
